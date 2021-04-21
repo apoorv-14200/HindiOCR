@@ -1,6 +1,4 @@
-# Python program FOR Hindi CHARACTER RECOGNITION MOSAIC PS1
-#TEAM ULTRONIX 
-#TEAM LEADER-RISHAB ARYA
+# Python program FOR Hindi CHARACTER RECOGNITION
 
 #our code is invariant to rotation,
 #the word can be anywhere not necessary in middle,
