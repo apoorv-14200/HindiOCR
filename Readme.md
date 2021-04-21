@@ -18,7 +18,7 @@ segmentation_test_images-contains images on which script was successful in segme
 STEPS FOR RUNNING-
 
 just give the correct model path and run the main.py
-
+You can train your own model and use it with this python script.
 
 Features of our model-
 
