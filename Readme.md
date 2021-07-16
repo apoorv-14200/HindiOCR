@@ -29,8 +29,12 @@
 * 5.Size of character set is 21 
 
 
-![original](t8.jpg )
-![processed_tograyscale](myprocess.jpg )
-![rotation corrected](rotated.jpg )
-![headerlineremoved](linerem.jpg )
-![segmented](./HindiOCR/whole process/seg1.jpg )
+![original](t8.jpg)
+
+![processed_tograyscale](myprocess.jpg)
+
+![rotation corrected](rotated.jpg)
+
+![headerlineremoved](linerem.jpg)
+
+![segmented](seg1.jpg)
