@@ -31,10 +31,10 @@
 
 ![original](t8.jpg)
 
-![processed_tograyscale](myprocess.jpg)
+![processed%20tograyscale](whole%20process/myprocess.jpg)
 
-![rotation corrected](rotated.jpg)
+![rotation%20corrected](whole%20process/rotated.jpg)
 
-![headerlineremoved](linerem.jpg)
+![header%20lineremoved](whole%20process/linerem.jpg)
 
-![segmented](seg1.jpg)
+![segmented](whole%20process/seg1.jpg)
