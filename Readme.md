@@ -28,3 +28,9 @@
 * 4.The only necessary condition for model to work is slight space between characters
 * 5.Size of character set is 21 
 
+
+![original](./HindiOCR/whole process/t8.jpg )
+![processed_tograyscale](./HindiOCR/whole process/myprocess.jpg )
+![rotation corrected](./HindiOCR/whole process/rotated.jpg )
+![headerlineremoved](./HindiOCR/whole process/linerem.jpg )
+![segmented](./HindiOCR/whole process/seg1.jpg )
